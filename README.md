@@ -145,5 +145,3 @@ To enhance the notebook with visualizations, you can add the following plots:
     plt.show()
     ```
 
-Would you like me to add these visualizations directly to your notebook? &#8203;:citation[oaicite:0]{index=0}&#8203;
-
